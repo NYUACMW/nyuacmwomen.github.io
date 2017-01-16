@@ -1,3 +1,3 @@
 # nyuacmwomen.github.io
 
-#Website for ACM WOMEN at NYU 
+###Website for ACM WOMEN at NYU 
