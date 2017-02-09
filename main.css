@@ -1,0 +1,128 @@
+
+body {
+    background-image: url('images/nyu.jpeg');
+    background-position: center bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 5em;
+    letter-spacing: 0.07em;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+/*navigation bar*/
+
+
+p {
+    color: white;
+}
+
+nav {
+    font-family: sans-serif;
+    font-size: 1.8em;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.links, .selected {
+    margin-left: 0.8em;
+    margin-right: 0.8em;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+/*content*/
+
+section {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    color: white;
+}
+
+#text {
+    margin-top: 100px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+video {
+    width: 100%;
+}
+
+
+/*Forms*/
+
+form {
+  font-family: 'PT Sans', sans-serif;
+  color: white;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color:#813772;
+    color: white;
+    margin: 20px;
+    padding: 10px 15px;
+    border: none;
+}
+
+
+input[type=reset] {
+    width: 30%;
+    background-color:#813772;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: #49274A;
+}
+input[type=reset]:hover {
+    background-color: #49274A;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0 0;
+    display: inline-block;
+
+}
+input[type=password] {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 10px 0 0;
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
